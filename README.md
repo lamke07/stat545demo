@@ -5,4 +5,4 @@ Demo test for STAT545 class
 
 Edit the ReadMe file to add new information
 
-This is a new change that is made on my computer.
+This is a new change that is made on my computer that I updated online.
