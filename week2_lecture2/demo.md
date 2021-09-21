@@ -8,6 +8,7 @@ output:
 ## Level 2 header
 
 2021-09-21 Change
+
 Here is a sentence.
 
 - List item 1
